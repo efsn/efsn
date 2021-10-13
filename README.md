@@ -28,8 +28,8 @@ Connect with me here:
 [![Medium Badge](https://img.shields.io/badge/-@efsn-000000?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@efsn.chan)](https://medium.com/@efsn.chan)
 [![Gmail Badge](https://img.shields.io/badge/-efsn.chan@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:efsn.chan@gmail.com)](mailto:efsn.chan@gmail.com)
 
-<img align="right" alt="GIF" src="https://github.com/efsn/efsn/blob/master/coding.gif?raw=true" width="449" height="350" />
-<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
+<!-- <img align="right" alt="GIF" src="https://github.com/efsn/efsn/blob/master/coding.gif?raw=true" width="449" height="350" /> -->
+<img align="right" alt="GIF" src="https://github.com/efsn/efsn/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 - 🏢 I'm currently working at **_Thoughtworks_**
 - 💻 Technology for working:
@@ -123,7 +123,7 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 
-#### :chart_with_upwards_trend: **My GitHub Stats:**
+#### :chart_with_upwards_trend: My GitHub Stats
 
 <!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=efsn&theme=dark&show_icons=true"/>](https://metrics.lecoq.io/efsn?template=classic) -->
 
