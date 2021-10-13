@@ -115,6 +115,9 @@ Connect with me here:
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### :star2: Projects starred by me
