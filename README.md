@@ -116,11 +116,9 @@ Connect with me here:
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
 ```text
 No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
 
 #### :chart_with_upwards_trend: My GitHub Stats
