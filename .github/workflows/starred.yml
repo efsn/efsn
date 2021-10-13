@@ -16,10 +16,10 @@ jobs:
       - run: pip install starred
       - run: starred --usename ${{github.repository_owner}} --sort --token ${{secrets.STARRED_TOKEN_90}} > AWESOME-STAR.md
       - run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "Github Action"
-        git add -A
-        git diff-index --quiet HEAD || git commit -m ":dizzy: Update awesome stars"
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "`:dizzy:` Update awesome stars"
       - run: git pull -r
       - uses: ad-m/github-push-action@v0.6.0
         with:
