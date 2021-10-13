@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - starred
 
-TODO: wakatime support project stats
+TODO: wakatime support project stats & visitor
 
 -->
 
@@ -28,7 +28,8 @@ Connect with me here:
 [![Medium Badge](https://img.shields.io/badge/-@efsn-000000?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@efsn.chan)](https://medium.com/@efsn.chan)
 [![Gmail Badge](https://img.shields.io/badge/-efsn.chan@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:efsn.chan@gmail.com)](mailto:efsn.chan@gmail.com)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=efsn&theme=dark&show_icons=true"/>](https://metrics.lecoq.io/efsn?template=classic)
+<img align="right" alt="GIF" src="https://github.com/efsn/efsn/blob/master/coding.gif?raw=true" width="449" height="350" />
+<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
 - 🏢 I'm currently working at **_Thoughtworks_**
 - 💻 Technology for working:
@@ -115,9 +116,22 @@ Connect with me here:
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
+#### :chart_with_upwards_trend: **My GitHub Stats:**
+
+<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=efsn&theme=dark&show_icons=true"/>](https://metrics.lecoq.io/efsn?template=classic) -->
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efsn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efsn&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 #### :star2: Projects starred by me
+
+[My Awesome Stars](AWESOME-STARS.md)
