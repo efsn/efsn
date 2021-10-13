@@ -1,0 +1,26 @@
+name: Update awesone stars
+
+on:
+  schedule:
+    - cron: 0 8 * * *
+  workflow_dispatch:
+
+jobs:
+  awesone-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2.2.2
+        with:
+          python-version: 3.8
+      - run: pip install starred
+      - run: starred --usename ${{github.repository_owner}} --sort --token ${{secrets.STARRED_TOKEN_90}} > AWESOME-STAR.md
+      - run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Github Action"
+        git add -A
+        git diff-index --quiet HEAD || git commit -m ":dizzy: Update awesome stars"
+      - run: git pull -r
+      - uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{secrets.STARRED_TOKEN_90}}
