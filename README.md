@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚙️ Tools for daily use:
 
-- ~~describe self~~
-- ~~repo 统计信息~~
 - starred
-- wakatime
+
+TODO: wakatime support project stats
 
 -->
 
@@ -107,7 +106,8 @@ Connect with me here:
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=ethereum)
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=plastic&logo=solidity)
   ![Substrate](https://img.shields.io/badge/Substrate-282828?style=plastic&logo=parity-substrate)
-  ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=plastic&logo=Graphql)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust)
+  ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=plastic&logo=graphql)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge fan of cloud native & blockchain
@@ -116,3 +116,5 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+#### :star2: Projects starred by me
