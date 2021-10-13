@@ -111,3 +111,8 @@ Connect with me here:
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge fan of cloud native & blockchain
+
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

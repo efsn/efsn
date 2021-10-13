@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '0 30 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
