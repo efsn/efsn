@@ -54,7 +54,7 @@ Connect with me here:
   ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apache-kafka)
   ![Consul](https://img.shields.io/badge/Kafka-FCA121?style=plastic&logo=consul)
 
-  ![MySQL](https://img.shields.io/badge/MySQL-394989?style=plastic&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/MySQL-394989?style=plastic&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-black?style=plastic&logo=redis)

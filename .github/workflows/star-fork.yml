@@ -16,7 +16,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: ouuan/This-repo-has-x-stars-y-forks-action@master
+      - uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{secrets.STAR_FORK_TOKEN}}
           template: ":rainbow: This profile README has <starCount> stars & <forkCount> forks"
