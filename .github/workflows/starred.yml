@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: 3.8
       - run: pip install starred
-      - run: starred --usename ${{github.repository_owner}} --sort --token ${{secrets.STARRED_TOKEN_90}} > AWESOME-STAR.md
+      - run: starred --username ${{github.repository_owner}} --sort --token ${{secrets.STARRED_TOKEN_90}} > AWESOME-STAR.md
       - run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
