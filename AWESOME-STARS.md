@@ -68,7 +68,7 @@
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - The Modern Application Delivery Platform.
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - The Modern Application Platform.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [O3Labs/go-ethereum](https://github.com/O3Labs/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [O3Labs/neo-go](https://github.com/O3Labs/neo-go) - Go Node and SDK for the NEO blockchain
