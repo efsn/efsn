@@ -117,11 +117,11 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Java           3 hrs 56 mins   ███████████████░░░░░░░░░░   60.15 % 
-textmate       35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Shell Script   31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Properties     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Groovy         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Java           3 hrs 25 mins   ███████████████░░░░░░░░░░   60.13 % 
+textmate       35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Shell Script   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Properties     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Markdown       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 <!--END_SECTION:waka-->
 
