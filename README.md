@@ -117,11 +117,11 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 8 mins    ███████████████▒░░░░░░░░░   61.98 % 
-TypeScript   59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Markdown     28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Java             1 hr 45 mins    █████████████▒░░░░░░░░░░░   53.77 % 
+TypeScript       45 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.07 % 
+Markdown         28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+JSON             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 
