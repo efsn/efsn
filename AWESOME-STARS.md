@@ -78,7 +78,7 @@
 - [O3Labs/neo-go](https://github.com/O3Labs/neo-go) - Go Node and SDK for the NEO blockchain
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，500M，100年证书，版本不要太全，生产环境稳如老狗
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [aliyun/aliyun-log-jaeger](https://github.com/aliyun/aliyun-log-jaeger) - 
