@@ -176,6 +176,7 @@
 
 ## Kotlin 
 
+- [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
