@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [efsn/traefik-forward-auth](https://github.com/efsn/traefik-forward-auth) - 
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
