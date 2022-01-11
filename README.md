@@ -117,11 +117,11 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin         12 hrs 55 mins  █████████████░░░░░░░░░░░░   51.72 % 
-YAML           7 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Markdown       2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Groovy         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Shell Script   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Kotlin         13 hrs 55 mins  █████████████████░░░░░░░░   68.59 % 
+YAML           2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Markdown       1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Groovy         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Shell Script   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 <!--END_SECTION:waka-->
 
