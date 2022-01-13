@@ -59,7 +59,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -155,7 +155,7 @@
 - [MyCATApache/Mycat-Server](https://github.com/MyCATApache/Mycat-Server) - 
 - [cbeust/testng](https://github.com/cbeust/testng) - TestNG testing framework
 - [x-stream/xstream](https://github.com/x-stream/xstream) - Serialize Java objects to XML and back again.
-- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [codefollower/Tomcat-Research](https://github.com/codefollower/Tomcat-Research) - Tomcat源代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
 - [peshkira/c3po](https://github.com/peshkira/c3po) - Clever, Crafty Content Profiling of Objects
 - [spring-projects/spring-mvc-showcase](https://github.com/spring-projects/spring-mvc-showcase) - Demonstrates the features of the Spring MVC web framework
