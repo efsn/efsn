@@ -117,10 +117,8 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 22 mins    ████████████▒░░░░░░░░░░░░   49.89 % 
-Kotlin       42 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 % 
-Java         36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 % 
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Kotlin     1 hr 4 mins     ████████████████▓░░░░░░░░   66.47 % 
+Java       31 mins         ████████▒░░░░░░░░░░░░░░░░   33.01 % 
 ```
 <!--END_SECTION:waka-->
 
