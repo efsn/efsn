@@ -117,8 +117,7 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin     1 hr 4 mins     ████████████████▓░░░░░░░░   66.47 % 
-Java       31 mins         ████████▒░░░░░░░░░░░░░░░░   33.01 % 
+Kotlin   21 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
