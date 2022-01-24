@@ -117,7 +117,11 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   21 mins         █████████████████████████   100.00 % 
+Kotlin         31 mins         ████████████▓░░░░░░░░░░░░   51.15 % 
+Text           15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Shell Script   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Properties     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+YAML           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
 
