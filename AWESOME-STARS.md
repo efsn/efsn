@@ -25,6 +25,7 @@
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Solidity](#solidity)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -246,6 +247,10 @@
 
 - [O3Labs/o3swap-contracts](https://github.com/O3Labs/o3swap-contracts) - 
 - [O3Labs/o3swap-aggregator-contracts](https://github.com/O3Labs/o3swap-aggregator-contracts) - 
+
+## Swift 
+
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
 ## TypeScript 
 
