@@ -117,11 +117,11 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin         1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   40.77 % 
-Markdown       46 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 % 
-Properties     22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Text           16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Shell Script   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Kotlin         6 hrs 7 mins    █████████████▓░░░░░░░░░░░   54.29 % 
+Shell Script   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Markdown       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Properties     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+YAML           27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 <!--END_SECTION:waka-->
 
