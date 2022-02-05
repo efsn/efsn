@@ -159,7 +159,7 @@
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [codefollower/Tomcat-Research](https://github.com/codefollower/Tomcat-Research) - Tomcat源代码学习研究(包括代码注释、文档、用于代码分析的测试用例)
 - [peshkira/c3po](https://github.com/peshkira/c3po) - Clever, Crafty Content Profiling of Objects
-- [spring-projects/spring-mvc-showcase](https://github.com/spring-projects/spring-mvc-showcase) - Demonstrates the features of the Spring MVC web framework
+- [spring-attic/spring-mvc-showcase](https://github.com/spring-attic/spring-mvc-showcase) - Demonstrates the features of the Spring MVC web framework
 
 ## JavaScript 
 
