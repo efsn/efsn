@@ -204,6 +204,7 @@
 
 ## Others 
 
+- [iambowen/cloud-design-patterns](https://github.com/iambowen/cloud-design-patterns) - cloud design patterns 中文版
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
