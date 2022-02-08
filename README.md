@@ -117,7 +117,7 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-Java   12 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
