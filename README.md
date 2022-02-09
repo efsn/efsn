@@ -117,7 +117,11 @@ Connect with me here:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML           1 hr 42 mins    ███████████░░░░░░░░░░░░░░   44.61 % 
+Kotlin         58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.38 % 
+Java           34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Markdown       26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Shell Script   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
