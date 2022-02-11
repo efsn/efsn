@@ -103,6 +103,7 @@
 
 ## Java 
 
+- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [spotbugs/sonar-findbugs](https://github.com/spotbugs/sonar-findbugs) - SpotBugs plugin for SonarQube
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services.
@@ -255,6 +256,7 @@
 
 ## TypeScript 
 
+- [scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments) - The monorepo for interview take home assignments.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
