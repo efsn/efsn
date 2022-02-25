@@ -120,7 +120,7 @@
 - [yandex-qatools/postgresql-embedded](https://github.com/yandex-qatools/postgresql-embedded) - Embedded PostgreSQL Server
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
-- [reactor/reactive-streams-commons](https://github.com/reactor/reactive-streams-commons) - A joint research effort for building highly optimized Reactive-Streams compliant operators.
+- [spring-attic/reactive-streams-commons](https://github.com/spring-attic/reactive-streams-commons) - A joint research effort for building highly optimized Reactive-Streams compliant operators.
 - [get-set/reactor-core](https://github.com/get-set/reactor-core) - 响应式编程库Reactor 3 Reference Guide参考文档中文版（3.2.0 - 更新不及时请见谅），翻译见master-zh分支build/reactor-code/build/asciidoc目录
 - [TheBund1st/daming](https://github.com/TheBund1st/daming) - Sms verification component for spring boot project
 - [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
@@ -259,6 +259,7 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [inherd/uncode](https://github.com/inherd/uncode) - Uncode is a conceptual IDE designed for the cloud development, also a cloud-native low-code software development enviorment. Uncode 是一个面向云研发时代设计的下一代概念性 IDE。
 - [scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments) - The monorepo for interview take home assignments.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
