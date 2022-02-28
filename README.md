@@ -116,13 +116,16 @@ Connect with me here:
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Kotlin       5 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.57 % 
-TypeScript   2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Java         2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-JavaScript   1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-YAML         1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Kotlin                5 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.57 %
+TypeScript            2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Java                  2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+JavaScript            1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+YAML                  1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+HTTP Request          1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### :chart_with_upwards_trend: My GitHub Stats
