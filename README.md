@@ -118,12 +118,12 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           28 hrs 11 mins  ██████████████████▓░░░░░░   74.22 %
-Java             4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-YAML             2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-HTTP Request     1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Markdown         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Properties       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Kotlin           31 hrs 20 mins  ████████████████████░░░░░   80.56 %
+Java             2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+YAML             2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+HTTP Request     1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Markdown         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Properties       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
