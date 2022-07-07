@@ -118,12 +118,12 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```text
-Docker                2 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.17 %
-Java                  1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-HTTP Request          1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Kotlin                40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Shell Script          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-YAML                  21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Docker         4 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   40.08 %
+YAML           1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Java           1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Shell Script   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Kotlin         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+HTTP Request   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->
