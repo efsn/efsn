@@ -118,12 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin         1 hr 32 mins    ████████████▓░░░░░░░░░░░░   50.42 %
-HTTP Request   41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-SQL            28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-YAML           12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Docker         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
