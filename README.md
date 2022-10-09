@@ -118,7 +118,12 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin         4 hrs 46 mins   ███████████████▓░░░░░░░░░   62.75 %
+SQL            1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Java           57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+JSON           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Gradle         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
