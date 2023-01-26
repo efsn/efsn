@@ -118,12 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```text
-Java     1 hr 55 mins    ████████████████▓░░░░░░░░   66.28 %
-Gradle   28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Groovy   24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-YAML     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
