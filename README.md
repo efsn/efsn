@@ -118,11 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           1 hr 12 mins    █████████████░░░░░░░░░░░░   52.32 %
-Kotlin         33 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-TOML           28 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-HTTP Request   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-XML            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+YAML   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
