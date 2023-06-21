@@ -118,7 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin         3 hrs 32 mins   ██████████████████▓░░░░░░   74.90 %
+YAML           1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+TOML           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
