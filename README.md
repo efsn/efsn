@@ -118,9 +118,8 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   9 hrs 44 mins   ████████████████████████▒   97.51 %
-SQL      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Kotlin   3 hrs 52 mins   ███████████████████████▓░   94.72 %
+SQL      12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
