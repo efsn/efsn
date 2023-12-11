@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            5 hrs 34 mins   ███████████████░░░░░░░░░░   60.10 %
-Java              3 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.32 %
-Docker            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JSON              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Kotlin            7 hrs 14 mins   ████████████████▒░░░░░░░░   64.93 %
+Java              3 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 %
+JSON              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Docker            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
