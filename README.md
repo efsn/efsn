@@ -118,7 +118,9 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   19 mins         █████████████████████████   100.00 %
+Java     4 hrs 5 mins    ███████████████████░░░░░░   76.63 %
+YAML     43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Kotlin   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
 ```
 
 <!--END_SECTION:waka-->
