@@ -118,7 +118,10 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           27 mins         ████████████████████████░   95.60 %
+GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
