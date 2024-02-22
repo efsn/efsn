@@ -118,10 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           30 mins         ████████████████████████░   96.11 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+HTTP Request     58 mins         ███████████░░░░░░░░░░░░░░   44.38 %
+Kotlin           38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Java             32 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
