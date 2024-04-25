@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                9 hrs 2 mins    █████████████▓░░░░░░░░░░░   54.91 %
-Bash                  2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-YAML                  1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Terraform             1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-HTTP Request          53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Kotlin                9 hrs 26 mins   ████████████▒░░░░░░░░░░░░   48.77 %
+Bash                  2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Java Properties       2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+YAML                  1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Terraform             1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->
