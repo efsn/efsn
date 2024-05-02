@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              3 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Java Properties   2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-Kotlin            2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Java              1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-HTTP Request      1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Rust              3 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+Bash              2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Kotlin            2 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Java              1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+HTTP Request      1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
 ```
 
 <!--END_SECTION:waka-->
