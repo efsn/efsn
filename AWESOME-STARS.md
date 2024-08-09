@@ -1,1 +1,1 @@
-Error: 401, message='Unauthorized', url=URL('https://api.github.com/graphql')
+Error: 401, message='Unauthorized', url='https://api.github.com/graphql'
