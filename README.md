@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                    7 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.14 %
-Kotlin                        3 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Java                          3 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-HTTP Request                  2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Markdown                      41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TypeScript                    7 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   44.87 %
+Kotlin                        2 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+HTTP Request                  2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Markdown                      41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+JSON                          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
