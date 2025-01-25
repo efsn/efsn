@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              1 hr 28 mins    ██████████████░░░░░░░░░░░   55.41 %
-Kotlin            1 hr            █████████▒░░░░░░░░░░░░░░░   37.53 %
-GitIgnore file    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Docker            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML              1 hr 30 mins    █████████▓░░░░░░░░░░░░░░░   38.86 %
+Kotlin            1 hr            ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+Java Properties   31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+SQL               20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Properties        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
