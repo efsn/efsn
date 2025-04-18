@@ -118,7 +118,9 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   18 mins         █████████████████████████   100.00 %
+YAML   24 mins         ███████████████████░░░░░░   75.78 %
+Java   7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
