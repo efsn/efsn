@@ -118,7 +118,8 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   0 secs          ███████████████████████▒░   92.86 %
+YAML   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
