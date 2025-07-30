@@ -118,7 +118,8 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   1 min           █████████████████████████   100.00 %
+Rust     1 min           █████████████████████▓░░░   86.38 %
+Kotlin   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
 ```
 
 <!--END_SECTION:waka-->
