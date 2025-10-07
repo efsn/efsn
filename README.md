@@ -118,11 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Java           20 mins         ███████████▓░░░░░░░░░░░░░   46.75 %
-SQL            15 mins         █████████░░░░░░░░░░░░░░░░   35.39 %
-HTTP Request   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-YAML           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-JSON           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
