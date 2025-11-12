@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 27 mins   ██████████████▓░░░░░░░░░░   58.85 %
-Kotlin            1 hr 10 mins    ███████░░░░░░░░░░░░░░░░░░   28.40 %
-TOML              29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Kotlin            2 hrs 40 mins   ████████████░░░░░░░░░░░░░   47.98 %
+Java              2 hrs           █████████░░░░░░░░░░░░░░░░   35.96 %
+TOML              51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
