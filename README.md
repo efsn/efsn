@@ -118,9 +118,9 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            3 hrs 40 mins   ███████████████████░░░░░░   76.16 %
-TOML              1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Kotlin            3 hrs 48 mins   ███████████████████▒░░░░░   76.71 %
+TOML              1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
