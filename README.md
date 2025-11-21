@@ -118,9 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin         7 mins          ████████████████████████▓   98.25 %
-HTTP Request   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
