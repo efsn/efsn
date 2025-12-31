@@ -118,11 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         55 mins         ██████████████████████░░░   87.34 %
-Markdown     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
