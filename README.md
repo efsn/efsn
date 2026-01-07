@@ -118,7 +118,9 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin   21 mins         █████████████████████░░░░   83.87 %
+YAML     4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
