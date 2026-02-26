@@ -118,7 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin                2 hrs 40 mins         █████████████████░░░░░░░░   67.88 %
+TOML                  55 mins               ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+Text                  10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Spring Boot Imports   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Docker                2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
