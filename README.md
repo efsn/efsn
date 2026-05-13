@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           1 hr 18 mins          ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-Markdown         1 hr 17 mins          ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-YAML             1 hr 3 mins           ██████░░░░░░░░░░░░░░░░░░░   23.76 %
-Other            31 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Git Config       8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Markdown         4 hrs 8 mins          █████████████▓░░░░░░░░░░░   54.55 %
+YAML             1 hr 21 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Kotlin           1 hr 18 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+Other            31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Git Config       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
