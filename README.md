@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 hrs 37 mins         ████████████▒░░░░░░░░░░░░   49.38 %
-Kotlin            1 hr 54 mins          █████████░░░░░░░░░░░░░░░░   35.89 %
-GitIgnore file    20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Bash              8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-YAML              6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Kotlin            1 hr 53 mins          ████████████▒░░░░░░░░░░░░   49.60 %
+Markdown          1 hr 19 mins          ████████▓░░░░░░░░░░░░░░░░   34.62 %
+GitIgnore file    20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+YAML              6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Other             6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
