@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           5 hrs 3 mins          ██████████▓░░░░░░░░░░░░░░   42.41 %
-Markdown         2 hrs 59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Other            1 hr 23 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-YAML             54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Bash             32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Python           5 hrs 3 mins          ████████████▒░░░░░░░░░░░░   49.54 %
+Markdown         2 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+Other            1 hr 23 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Bash             31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Shell Script     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
