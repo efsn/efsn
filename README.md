@@ -118,11 +118,7 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 56 mins         ███████████████████▓░░░░░   78.85 %
-Markdown   23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Bash       16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Other      4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-JSON       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
