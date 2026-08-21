@@ -118,7 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GitIgnore file   29 mins               ███████████████████▓░░░░░   78.75 %
+HTML             4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Text             2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Markdown         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Roff             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
