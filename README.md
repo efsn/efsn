@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   29 mins               ███████████████████▓░░░░░   78.75 %
-HTML             4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-Text             2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Markdown         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Roff             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+GitIgnore file   29 mins               ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+JavaScript       23 mins               ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+Other            14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Markdown         13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+TypeScript       10 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 ```
 
 <!--END_SECTION:waka-->
