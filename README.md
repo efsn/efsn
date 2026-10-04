@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            2 hrs 43 mins         ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-Java              2 hrs 17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
-Markdown          1 hr 51 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-Text              32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Other             18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Java              2 hrs 17 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %
+Python            2 hrs 16 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 %
+Markdown          1 hr 50 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+Text              32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Java Properties   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
