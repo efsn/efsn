@@ -118,11 +118,11 @@ Connect with me here:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       10 hrs 43 mins        █████████████████▒░░░░░░░   69.87 %
-CSS          1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Markdown     1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-TypeScript   55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Java         32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Python            13 hrs 11 mins        ██████████████▒░░░░░░░░░░   57.32 %
+Kotlin            3 hrs 43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Markdown          1 hr 32 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+CSS               1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+TypeScript        1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 ```
 
 <!--END_SECTION:waka-->
